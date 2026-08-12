@@ -2,3 +2,6 @@
 ## Penetration Testing Report
 
 [📄 View Full RSH Port 514 Pentest Report](./Metasploitable-Port-514-RSH-Pentest-Report.pdf)
+## Pentest Report
+
+[Metasploitable RSH Exploitation Report](./Metasploitable_RSH_Terminal_Walkthrough.pdf)
